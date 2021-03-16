@@ -91,7 +91,7 @@ A prompt box is a box which allows the user to enter input by providing a text b
 
 ## 12. Which symbol is used for comments in Javascript?
 
-<code>
+
 // for Single line comments and
 
 /* Multi
@@ -101,7 +101,7 @@ Line
 Comment
 
 */
-</code>
+
 
 
 <br>
