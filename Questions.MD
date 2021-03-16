@@ -1,18 +1,20 @@
 # JavaScript Interview Questions and Answers
 
-**1. What is JavaScript?**
+*1. What is JavaScript?*
 
 JavaScript is a client-side as well as server side scripting language that can be inserted into HTML pages and is understood by web browsers. JavaScript is also an Object based Programming language
 
 
+<br>
 
-**2. State the differences between Java and JavaScript?**
+*2. State the differences between Java and JavaScript?*
 
 Java is a complete programming language. In contrast, JavaScript is a coded program that can be introduced to HTML pages. These two languages are not at all inter-dependent and are designed for the different intent. Java is an object - oriented programming (OOPS) or structured programming language like C++ or C whereas JavaScript is a client-side scripting language.
 
 
+<br>
 
-**3. What are JavaScript Data Types?**
+*3. What are JavaScript Data Types?*
 
 Following are the JavaScript Data types:
 
@@ -23,26 +25,30 @@ Object
 Undefined
 
 
+<br>
 
-4. What is the use of isNaN function?
+*4. What is the use of isNaN function?*
 
 isNan function returns true if the argument is not a number otherwise it is false.
 
 
+<br>
 
-5. Between JavaScript and an ASP script, which is faster?
+*5. Between JavaScript and an ASP script, which is faster?*
 
 JavaScript is faster. JavaScript is a client-side language and thus it does not need the assistance of the web server to execute. On the other hand, ASP is a server-side language and hence is always slower than JavaScript. Javascript now is also a server side language (nodejs).
 
 
+<br>
 
-6. What is negative infinity?
+*6. What is negative infinity?*
 
 Negative Infinity is a number in JavaScript which can be derived by dividing negative number by zero.
 
 
+<br>
 
-7. Is it possible to break JavaScript Code into several lines?
+*7. Is it possible to break JavaScript Code into several lines?*
 
 Breaking within a string statement can be done by the use of a backslash, '\', at the end of the first line
 
@@ -51,14 +57,16 @@ Example:
 <code>document.write("This is \a program");</code>
 
 
+<br>
 
-8. Which company developed JavaScript?
+*8. Which company developed JavaScript?*
 
 Netscape.
 
 
+<br>
 
-9. What are undeclared and undefined variables?
+*9. What are undeclared and undefined variables?*
 
 Undeclared variables are those that do not exist in a program and are not declared. If the program tries to read the value of an undeclared variable, then a runtime error is encountered.
 
