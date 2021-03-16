@@ -182,6 +182,14 @@ ECMA Script are like rules and guideline while Javascript is a scripting languag
 
 Break statement is used to come out of the current loop while the continue statement continues the current loop with a new recurrence.
 
+
+
+<br>
+
+## 23. Is JavaScript case sensitive? Give an example?
+
+Yes, JavaScript is case sensitive. For example, a function parseInt is not same as the function Parseint.
+
 <br>
 <br>
 
