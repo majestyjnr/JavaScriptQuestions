@@ -73,20 +73,23 @@ Undeclared variables are those that do not exist in a program and are not declar
 Undefined variables are those that are declared in the program but have not been given any value. If the program tries to read the value of an undefined variable, an undefined value is returned.
 
 
+<br>
 
-10. What is a prompt box?
+## 10. What is a prompt box?
 
 A prompt box is a box which allows the user to enter input by providing a text box. Label and box will be provided to enter the text or number.
 
 
+<br>
 
-11. What is 'this' keyword in JavaScript?
+## 11. What is 'this' keyword in JavaScript?
 
 'This' keyword refers to the object from where it was called.
 
 
+<br>
 
-12. Which symbol is used for comments in Javascript?
+## 12. Which symbol is used for comments in Javascript?
 
 // for Single line comments and
 
@@ -99,23 +102,25 @@ Comment
 */
 
 
+<br>
 
-13. What is the difference between ViewState and SessionState?
+## 13. What is the difference between ViewState and SessionState?
 
 'ViewState' is specific to a page in a session.
 
 'SessionState' is specific to user specific data that can be accessed across all pages in the web application.
 
 
+<br>
 
-
-14. What is === operator?
+## 14. What is === operator?
 
 === is called as strict equality operator which returns true when the two operands are having the same value without any type conversion.
 
 
+<br>
 
-15. Explain how can you submit a form using JavaScript?
+## 15. Explain how can you submit a form using JavaScript?
 
 To submit a form using JavaScript use document.form[0].submit();
 
