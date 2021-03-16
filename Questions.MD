@@ -107,4 +107,12 @@ Comment
 
 
 
+15. Explain how can you submit a form using JavaScript?
+
+To submit a form using JavaScript use document.form[0].submit();
+
+document.form[0].submit();
+
+
+
 
