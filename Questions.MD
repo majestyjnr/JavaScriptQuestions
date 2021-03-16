@@ -177,6 +177,12 @@ ECMA Script are like rules and guideline while Javascript is a scripting languag
 
 
 <br>
+
+## 22. What is the role of break and continue statements?
+
+Break statement is used to come out of the current loop while the continue statement continues the current loop with a new recurrence.
+
+<br>
 <br>
 
 # Feel free to be update the list. Your input is needed
