@@ -129,6 +129,52 @@ To submit a form using JavaScript use document.form[0].submit();
 document.form[0].submit();
 
 
+<br>
+
+## 16. Explain the difference between "==" and "==="?
+
+"==" checks only for equality in value whereas "===" is a stricter equality test and returns false if either the value or the type of the two variables are different.
+
+
+<br>
+
+## 17. What is an undefined value in JavaScript?
+
+Undefined value means the
+
+Variable used in the code doesn't exist
+Variable is not assigned to any value
+Property doesn't exist
+
+
+<br>
+
+## 18. What do mean by NULL in Javascript?
+
+The NULL value is used to represent no value or no object. It implies no object or null string, no valid boolean value, no number and no array object.
+
+
+<br>
+
+## 19. What are JavaScript Cookies?
+
+Cookies are the small test files stored in a computer and it gets created when the user visits the websites to store information that they need. Example could be User Name details and shopping cart information from the previous visits.
+
+
+
+<br>
+
+## 20. What are JavaScript Cookies?
+
+Cookies are the small test files stored in a computer and it gets created when the user visits the websites to store information that they need. Example could be User Name details and shopping cart information from the previous visits.
+
+
+<br>
+
+## 21. How are JavaScript and ECMA Script related?
+
+ECMA Script are like rules and guideline while Javascript is a scripting language used for web development.
+
 
 <br>
 <br>
